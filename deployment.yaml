@@ -15,5 +15,5 @@ spec:
         app: kezang-deploy
     spec:
       containers:
-      - image: kezangyuden/kezangy:latest
+      - image: kezangyuden/kezangy:19
         name: pet
