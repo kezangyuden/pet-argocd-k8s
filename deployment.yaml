@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   labels:
-    app: pet-deploy
+    app: kezang-deploy
   name: kezang-deploy
 spec:
   replicas: 2
